@@ -10,6 +10,6 @@ _We need your help. If you do want to contribute with a translation for WebWalle
 
 _Thank you very much!_
 
-We are currently offering a bounty of **200 XSG** for each new translations.
+We are currently offering a bounty of **200 XSG** for each new translation.
 
 _If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**._
