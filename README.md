@@ -12,4 +12,4 @@ _Thank you very much!_
 
 We are currently offering a bounty of **200 XSG** for each new translation.
 
-_If you want to join our Translation team please join our Discord (https://discord.gg/zumGnbg) and contact team member **Amitabha**._
+_If you want to join our Translation team please join our Discord (https://discord.gg/78rVJcH) and contact team member **Amitabha**._
